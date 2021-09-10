@@ -1,0 +1,61 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+div{
+width: 70%px;
+height: 200px;
+background-color: rgb(0, 0, 37);
+position: 100%;
+margin: 0%;
+padding: 0%;
+}
+#titulo{
+color: rgb(0, 231, 0);
+font-size: 60px;
+font-family: 'Press Start 2P', cursive;
+text-align: center;
+}
+#div{
+    background-color: whitesmoke;
+    color: black;
+    width: 1300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#star{
+    font-family: 'Ultra', serif;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+#bienbeida{
+    font-family: 'Aclonica', sans-serif;
+    font-size: 60px;
+    color: gold;
+    text-align: center;
+}
+.instruccion{
+    text-align: center;
+    color: black;
+}
+    #hanako{
+        width: 100px;
+        height: 120px;
+    }
+
+@media (min-width: 300px) and (max-width: 500px){
+    width: 70%px;
+    height: 200px;
+    background-color: rgb(0, 0, 37);
+    position: 100%;
+
+}
+@media (min-width: 500px) and (max-width: 700px){
+    width: 70%px;
+    height: 200px;
+    background-color: rgb(0, 0, 37);
+    position: 100%;
+
+}

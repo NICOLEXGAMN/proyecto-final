@@ -1,0 +1,108 @@
+
+#hanako{
+    width: 100px;
+    height: 120px;
+}
+#animales{
+color: rgb(0, 0, 0);
+text-align: center;
+font-size: 50px;
+font-family: 'Kaushan Script', cursive;
+}
+#chavo{
+ margin-left: auto;
+ margin-right: auto;
+ color: white;
+ width: 1400;
+ height: 600px;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+}
+div{
+width: 70%px;
+height: 200px;
+background-color: rgb(0, 0, 37);
+position: 100%;
+margin: 0%;
+padding: 0%;
+}
+#titulo{
+color: rgb(0, 231, 0);
+font-size: 60px;
+font-family: 'Press Start 2P', cursive;
+text-align: center;
+}
+#div{
+    background-color: whitesmoke;
+    color: black;
+    width: 1300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#star{
+    font-family: 'Ultra', serif;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+#bienbeida{
+    font-family: 'Aclonica', sans-serif;
+    font-size: 60px;
+    color: gold;
+    text-align: center;
+}
+.instruccion{
+    text-align: center;
+    color: black;
+}
+    #hanako{
+        width: 100px;
+        height: 120px;
+    }
+
+#edgar{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Fredoka One', cursive;
+    background-color: violet;
+}
+#pokemon{
+    background-color: white;
+    height: auto;
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+.ajolote{
+    font-family: 'Fredoka One', cursive;
+    font-size: 40px;
+    text-align: center;
+    color: whitesmoke;
+}
+.p{
+    background-color: teal;
+    width: 1000px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.planet{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+}
+#foto{
+    float: none;
+    width: 250px;
+    height: 250px;
+}
+#i{
+    color: black;
+    background-color: cyan;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    text-align: center;
+}
